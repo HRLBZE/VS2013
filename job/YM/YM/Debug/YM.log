@@ -1,0 +1,5 @@
+﻿  Manage.cpp
+d:\program files (x86)\job\ym\ym\manage.cpp(14): warning C4018: “<”: 有符号/无符号不匹配
+d:\program files (x86)\job\ym\ym\manage.cpp(71): warning C4018: “<”: 有符号/无符号不匹配
+d:\program files (x86)\job\ym\ym\manage.cpp(367): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+  YM.vcxproj -> D:\Program Files (x86)\job\YM\Debug\YM.exe
